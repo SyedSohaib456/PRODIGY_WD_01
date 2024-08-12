@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:Root{
+    color: white;
+    border-radius: 0px;
+background: #09191F;
+box-shadow: inset 7px -7px 15px #040a0c,
+            inset -7px 7px 15px #0e2832;
+}
